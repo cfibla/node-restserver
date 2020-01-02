@@ -1,0 +1,5 @@
+user: cfibla
+pass: fmZrFTom5vGcaAOs
+
+Mongo URL
+mongodb+srv://cfibla:fmZrFTom5vGcaAOs@cluster0-gkpgk.mongodb.net/test
