@@ -12,7 +12,7 @@ if (process.env.NODE_ENV === 'dev') {
 
 } else {
 
-	urlDB = 'mongodb+srv://cfibla:fmZrFTom5vGcaAOs@cluster0-gkpgk.mongodb.net/cafe'
+	urlDB = process.env.MONGO_URI;
 
 }
 
